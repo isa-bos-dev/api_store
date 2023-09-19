@@ -8,7 +8,6 @@ Esta API simula una tienda en línea ficticia y ofrece funcionalidades para obte
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
 - [Licencia](#licencia)
 
 ## Características
@@ -28,14 +27,16 @@ Esta API simula una tienda en línea ficticia y ofrece funcionalidades para obte
 git clone https://github.com/isabosdev/api-store.git
 
 2. Instala las dependencias:
+´´´
 npm install
-
+´´´
 
 ## Uso
 
 1. Inicia la API:
-
+´´´
 npm start
+´´´	
 
 La API estará disponible en http://localhost:3000 por defecto.
 
